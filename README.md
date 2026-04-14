@@ -24,8 +24,7 @@
 <summary>stats</summary>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arrowreal&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrowreal&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrowreal&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6" />
 
 </details>
