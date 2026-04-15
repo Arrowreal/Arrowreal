@@ -4,6 +4,7 @@
 ### stack
 
 ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity)
+![Godot Engine](https://img.shields.io/badge/Godot-000?style=flat-square&logo=godot%20engine&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -25,6 +26,6 @@
 <br>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arrowreal&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArrowyDev&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" />
 
 </details>
